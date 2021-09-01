@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVM-Pattern</string>
+    <string name="error_message">Unable to get country names. Please retry later</string>
 </resources>
